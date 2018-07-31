@@ -1,0 +1,30 @@
+{
+  "name": "translation-script",
+  "version": "1.0.0",
+  "description": "This is a quick and dirty translation script that sends text to Google's translation library.",
+  "main": "translate.js",
+  "dependencies": {
+    "google-translate-api": "^2.3.0",
+    "jsonfile": "^4.0.0",
+    "mongojs": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dondreytaylor/translation-script.git"
+  },
+  "keywords": [
+    "translate",
+    "node",
+    "npm"
+  ],
+  "author": "Dondrey Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dondreytaylor/translation-script/issues"
+  },
+  "homepage": "https://github.com/dondreytaylor/translation-script#readme"
+}

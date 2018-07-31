@@ -1,0 +1,8 @@
+{
+    "fromLanguage": "en",
+    "toLanguage": "es",
+    "delayBetweenTranslations": 2000,
+    "outputFile": "output.json",
+    "textToTranslate": [
+     ]
+}
